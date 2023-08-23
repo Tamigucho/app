@@ -1,0 +1,8 @@
+chown -h 1000:1000 './CNAME'
+chmod 0755 './CNAME'
+/usr/bin/touch -hcmd "2023-08-23 20:45:32.5707288000 -0300" './CNAME'
+/usr/bin/touch -hcad "2023-08-23 20:47:03.5417573000 -0300" './CNAME'
+chown -h 1000:1000 './index.html'
+chmod 0755 './index.html'
+/usr/bin/touch -hcmd "2023-08-23 20:46:01.6392020000 -0300" './index.html'
+/usr/bin/touch -hcad "2023-08-23 20:47:03.5457565000 -0300" './index.html'
